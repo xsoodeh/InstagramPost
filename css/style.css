@@ -1,0 +1,28 @@
+.imgProfile {
+    border-radius: 50px;
+    width: 100px;
+    vertical-align: middle;
+    margin: 5px;
+}
+
+.ml-3 {
+    margin-left: 163px;
+}
+
+.btnFollow {
+    color: blue;
+    background-color: #fff;
+    border: none;
+}
+
+.btnFollow:hover {
+    color: red;
+}
+
+.btnSetting {
+    margin-left: 173px;
+    color: black;
+    background-color: white;
+    font-size: larger;
+    border: none;
+}
